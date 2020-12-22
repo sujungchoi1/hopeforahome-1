@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.right_nav {
+    flex: display;
+    align-items: right;
+}
+
+.divider {
+    height: 10px;
+    width: 1px;
+    background-color: black;
+}
+
+.jumbotron {
+    align-items: center;
+}
+
+.cicle_icon {
+    background: #ffc0c0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 30px;
+}
